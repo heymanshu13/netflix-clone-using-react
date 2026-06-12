@@ -2,3 +2,4 @@ This line added from git CLI
 This line added from Github gui
 Deleted this line using Git cli
 Adding this line in Dev branch only
+Adding another line in main and pull/merge this in dev
