@@ -1,4 +1,4 @@
 This line added from git CLI
 This line added from Github gui
 Deleted this line using Git cli
-Adding new line
+Adding this line in Dev branch only
